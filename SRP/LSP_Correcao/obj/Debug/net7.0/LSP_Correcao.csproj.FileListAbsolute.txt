@@ -1,0 +1,14 @@
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\bin\Debug\net7.0\LSP_Correcao.exe
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\bin\Debug\net7.0\LSP_Correcao.deps.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\bin\Debug\net7.0\LSP_Correcao.runtimeconfig.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\bin\Debug\net7.0\LSP_Correcao.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\bin\Debug\net7.0\LSP_Correcao.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.AssemblyInfoInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.AssemblyInfo.cs
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.csproj.CoreCompileInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\refint\LSP_Correcao.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\LSP_Correcao.genruntimeconfig.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\SRP\LSP_Correcao\obj\Debug\net7.0\ref\LSP_Correcao.dll
