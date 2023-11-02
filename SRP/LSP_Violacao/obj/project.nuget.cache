@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUGnyS9iv3tGeGFX8SPUftJTmOlODbPDfpyxjYXmVv0ifODlPdQWc+6pI3p7C507VyXAQt1XnLUhXuKqR8qo/g==",
+  "dgSpecHash": "6czhHSZNYwJ67uk7IzSyQW3Y5Pfurhnh6JXmAbqYAYrGYW0QuUcImRPxKhp6vBeeRTQCV5EiSWpBSriCU2B1pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\LSP_Violacao.csproj",
+  "projectFilePath": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\Exemplo1_LSP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

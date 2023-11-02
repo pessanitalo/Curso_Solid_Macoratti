@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\LSP_Violacao.csproj",
-      "projectName": "LSP_Violacao",
-      "projectPath": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\LSP_Violacao.csproj",
+      "projectUniqueName": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\Exemplo1_LSP.csproj",
+      "projectName": "Exemplo1_LSP",
+      "projectPath": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\Exemplo1_LSP.csproj",
       "packagesPath": "C:\\Users\\italo pessan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\italo pessan\\Desktop\\git\\Curso_Solid_Macoratti\\SRP\\LSP_Violacao\\obj\\",
       "projectStyle": "PackageReference",

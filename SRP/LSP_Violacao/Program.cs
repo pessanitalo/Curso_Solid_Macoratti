@@ -1,4 +1,4 @@
-﻿namespace LSP_Violacao
+﻿namespace Exemplo1_LSP
 {
     internal class Program
     {
