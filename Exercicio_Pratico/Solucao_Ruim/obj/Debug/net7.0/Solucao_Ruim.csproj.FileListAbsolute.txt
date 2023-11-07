@@ -1,0 +1,14 @@
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\bin\Debug\net7.0\Solucao_Ruim.exe
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\bin\Debug\net7.0\Solucao_Ruim.deps.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\bin\Debug\net7.0\Solucao_Ruim.runtimeconfig.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\bin\Debug\net7.0\Solucao_Ruim.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\bin\Debug\net7.0\Solucao_Ruim.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.AssemblyInfoInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.AssemblyInfo.cs
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.csproj.CoreCompileInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\refint\Solucao_Ruim.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\Solucao_Ruim.genruntimeconfig.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_Pratico\Solucao_Ruim\obj\Debug\net7.0\ref\Solucao_Ruim.dll

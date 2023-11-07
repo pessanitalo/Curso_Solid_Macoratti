@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solucao_Ruim", "Solucao_Ruim\Solucao_Ruim.csproj", "{F29934E3-1066-4FC0-9D81-99041514060C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Correcao_Aplicando_Solid", "Correcao_Aplicando_Solid\Correcao_Aplicando_Solid.csproj", "{A4FE1BD0-A7CC-4B25-8004-9450903AAEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29934E3-1066-4FC0-9D81-99041514060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29934E3-1066-4FC0-9D81-99041514060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29934E3-1066-4FC0-9D81-99041514060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29934E3-1066-4FC0-9D81-99041514060C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FE1BD0-A7CC-4B25-8004-9450903AAEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FE1BD0-A7CC-4B25-8004-9450903AAEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FE1BD0-A7CC-4B25-8004-9450903AAEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FE1BD0-A7CC-4B25-8004-9450903AAEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC723DC-F135-4EF8-A4F3-576B86010BBE}
+	EndGlobalSection
+EndGlobal
