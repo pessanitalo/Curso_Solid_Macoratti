@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Correcao_Aplicando_Solid/1.0.0": {
+        "runtime": {
+          "Correcao_Aplicando_Solid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Correcao_Aplicando_Solid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -5,35 +5,25 @@ namespace Correcao_Aplicando_Solid
     public class GerenciadorDeDesconto
     {
         private readonly ICalculaDescontoFidelidade descontoFidelidade;
+        private readonly ICalculaDescontoStatusContaFactory descontoStatusConta;
 
-        public GerenciadorDeDesconto(ICalculaDescontoFidelidade descontoFidelidade)
+        public GerenciadorDeDesconto(ICalculaDescontoFidelidade descontoFidelidade, ICalculaDescontoStatusContaFactory descontoStatusConta)
         {
             this.descontoFidelidade = descontoFidelidade;
+            this.descontoStatusConta = descontoStatusConta;
         }
 
         public decimal AplicarDesconto(decimal preco, StatusContaCliente statusContaCliente,
-            int tempoDeContaEmAnos)
+                 int tempoDeContaEmAnos)
         {
             decimal precoDepoisDoDesconto = 0;
-            switch (statusContaCliente)
-            {
-                case StatusContaCliente.NaoRegistrado:
-                    precoDepoisDoDesconto = preco;
-                    break;
-                case StatusContaCliente.ClienteComum:
-                    precoDepoisDoDesconto = 
-                    precoDepoisDoDesconto = descontoFidelidade.AplicarDescontoFidelidade(precoDepoisDoDesconto, tempoDeContaEmAnos);
-                    break;
-                case StatusContaCliente.ClienteEspecial:
-                    precoDepoisDoDesconto = 
-                    precoDepoisDoDesconto = descontoFidelidade.AplicarDescontoFidelidade(precoDepoisDoDesconto, tempoDeContaEmAnos);
-                    break;
-                case StatusContaCliente.ClienteVIP:
-                    precoDepoisDoDesconto = 
-                    precoDepoisDoDesconto = descontoFidelidade.AplicarDescontoFidelidade(precoDepoisDoDesconto, tempoDeContaEmAnos); break;
-                default:
-                    throw new NotImplementedException();
-            }
+
+            precoDepoisDoDesconto = descontoStatusConta.
+                GetCalculoDescontoStatusConta(statusContaCliente).AplicarDescontoStatusConta(preco);
+
+            precoDepoisDoDesconto = descontoFidelidade.
+                AplicarDescontoFidelidade(precoDepoisDoDesconto, tempoDeContaEmAnos);
+
             return precoDepoisDoDesconto;
         }
     }

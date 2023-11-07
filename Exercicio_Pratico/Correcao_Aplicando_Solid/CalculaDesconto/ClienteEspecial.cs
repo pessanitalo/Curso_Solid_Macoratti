@@ -2,7 +2,7 @@
 
 namespace Correcao_Aplicando_Solid.CalculaDesconto
 {
-    internal class ClienteEspecial : ICalculoDescontoStatusConta
+    public class ClienteEspecial : ICalculoDescontoStatusConta
     {
         public decimal AplicarDescontoStatusConta(decimal preco)
         {
