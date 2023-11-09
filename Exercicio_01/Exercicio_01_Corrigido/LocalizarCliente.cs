@@ -1,7 +1,7 @@
 ﻿namespace Exercicio_01_Corrigido
 {
 
-    public class LocalizarCliente : GerarCsv
+    public class LocalizarCliente 
     {
         public static Cliente ProcuraPorPais(string pais)
         {

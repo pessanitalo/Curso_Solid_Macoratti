@@ -1,0 +1,14 @@
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\bin\Debug\net7.0\Exercicio_03_Corrigido.exe
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\bin\Debug\net7.0\Exercicio_03_Corrigido.deps.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\bin\Debug\net7.0\Exercicio_03_Corrigido.runtimeconfig.json
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\bin\Debug\net7.0\Exercicio_03_Corrigido.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\bin\Debug\net7.0\Exercicio_03_Corrigido.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.AssemblyInfoInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.AssemblyInfo.cs
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.csproj.CoreCompileInputs.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\refint\Exercicio_03_Corrigido.dll
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.pdb
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\Exercicio_03_Corrigido.genruntimeconfig.cache
+C:\Users\italo pessan\Desktop\git\Curso_Solid_Macoratti\Exercicio_03_Solucao_Ruim\Exercicio_03_Corrigido\obj\Debug\net7.0\ref\Exercicio_03_Corrigido.dll

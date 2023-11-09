@@ -15,7 +15,6 @@
             var csv = GerarCsv.ExportarCSV(clientes);
             Console.WriteLine(csv);
             Console.ReadLine();
-            Console.WriteLine("Hello, World!");
         }
     }
 }
