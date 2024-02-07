@@ -21,7 +21,7 @@
             CalcularImposto impostoUsa = new CalcularImposto();
             var totalImpostoUsa = impostoUsa.Calcular(calcularUsa);
             Console.WriteLine($"USA {totalImpostoUsa}");
-
+       
             Console.ReadKey();
         }
     }
